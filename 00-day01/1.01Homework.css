@@ -1,0 +1,22 @@
+.main {
+    background-color: lightblue;
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    border: solid black;
+}
+
+th {
+    font-style: italic;
+}
+
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+}
